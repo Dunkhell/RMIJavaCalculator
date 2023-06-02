@@ -23,7 +23,7 @@ Podczas tworzenia oprogramowania rozwiązano następujące problemy:
 
 - Integracja logowania: Do kodu serwera zostało włączone logowanie z wykorzystaniem biblioteki SLF4J, co umożliwiło śledzenie połączeń klientów i żądań.
 
-## Problemty napotkane podczas budowania aplikacji
+## Problemy napotkane podczas budowania aplikacji
 Podczas procesu tworzenia oprogramowania napotkano następujące problemy:
 
 - Poprawne zależności: Zapewnienie poprawnej konfiguracji zależności (takich jak SLF4J) w pliku budowania Gradle, aby umożliwić funkcjonalność logowania.
